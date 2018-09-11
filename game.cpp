@@ -1,0 +1,3 @@
+10 PRINT "h"
+11 PRINT "e"
+12 PRINT "l"
