@@ -1,0 +1,5 @@
+*.o
+3dthing
+*.out
+exec
+*.exe
